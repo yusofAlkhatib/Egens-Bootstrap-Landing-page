@@ -1,0 +1,41 @@
+body{
+    font-family: 'Jost', sans-serif;
+    background-color: #e9edf3;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.nav-item:hover .nav-link{
+    color: #7153d9;
+}
+.main-subtitle{
+    font-size: 24px;
+    color: #7153d9;
+    letter-spacing: 8px;
+    font-weight: 500;
+}
+.mian-title{
+    font-size: 72px;
+    font-weight: 500;
+}
+.main-p{
+    font-size: 24px;
+    font-weight: 400;
+    color: #54545f;
+}
+.main-btn{
+    background: linear-gradient(135deg, #4526b1 0%, #5435b2 45%, #7153d9 66%);
+    padding: 20px 45px;
+    border-radius: 35px;
+    text-decoration: none;
+    color: white;
+}
+
+.bg-white {
+    background: #e9edf3 !important;
+  }
+  .bg-white.scrolled {
+    background: white !important;
+  }
