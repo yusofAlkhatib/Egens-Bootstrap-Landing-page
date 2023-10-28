@@ -108,3 +108,11 @@ text-align: center;
     color: #7153d9;
     font-size: 16px;
 }
+.feature-icon{
+    background: #f2f5fb;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 103px;
+}
