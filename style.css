@@ -144,4 +144,17 @@ text-align: center;
     .feature-card{
         margin: 15px 0px;
     }
+    .img-2{
+        margin-top: 20px;
+    }
+    .blog-crad{
+        margin-top: 30px;
+    }
+    .blog-card img{
+        width: 100%;
+    }
+    .blog-content{
+        padding-left: 12px !important; 
+        margin-top: 12px;
+    }
 }
