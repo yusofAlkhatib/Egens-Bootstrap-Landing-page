@@ -141,4 +141,7 @@ text-align: center;
     .banner-section img{
         margin-top: 50px;
     }
+    .feature-card{
+        margin: 15px 0px;
+    }
 }
